@@ -1,0 +1,55 @@
+	/*
+	Ejercicio 1
+	Representar la acción de un semáforo según su color
+	*/
+
+        /*
+        Ejercicio 2
+        Solicitar al usuario que ingrese 3 números. 2 positivos y 1 negativo
+        (en cualquier orden).
+        Luego, informar por pantalla la multiplicación de los números que son positivos
+        */
+
+        /*
+	Ejercicio 3
+	queremos saber si una persona se puede jubilar
+	para este ejemplo, tomaremos que para jubilarse, una persona debe ser
+	mujer y tener de 60 años en adelante o ser hombre y tener de 65 años en adelante
+        */
+
+        /*
+	Ejercicio 4
+        Según la edad de una persona mostrar los siguientes mensajes:
+        menos de 12 años: "eres un niño"
+        entre 12 y 18 años: "eres un adolescente"
+        entre 19 y 39 años: "eres joven"
+        entre 40 y 70: "eres maduro"
+        71 para arriba: "eres anciano"
+	*/      
+  
+	/*
+	Ejercicio 5
+	Según la edad de un usuario, mostrar:
+	“No puede votar” si edad tiene menos de 16 años.
+	“Voto optativo” si su edad es de 16, de 17, o de más de 70años.
+	“Voto obligatorio” en otros casos
+	*/
+
+	/*
+	Ejercicio 6
+	Recibir una dirección de email y determinar si es válido o no,
+	si tiene un  “@” y al menos un “.” después.
+	*/
+
+	/*
+	Ejercicio 7
+	Recibir un nickname, el mismo debe cumplir con las siguientes reglas:
+	tener entre  5–15 caracteres, sin espacios y no empezar con número.
+	Mostrar: “Válido” o “Inválido” según corresponda.
+	*/
+
+
+
+
+
+
