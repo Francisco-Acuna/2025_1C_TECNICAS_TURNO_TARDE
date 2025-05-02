@@ -1,0 +1,59 @@
+//ejercicios con switch case
+
+//Ejercicio 1
+
+/*
+   Crear un programa que simule la petición de
+   una opción según el siguiente menú y muestre
+   en pantalla que ha ingresado a la opción
+   seleccionada con las opciones siguientes:
+        
+   ¡Gracias por contactarte con nosotros!
+   ¿En qué podemos ayudarte?
+   A) Documentación
+   B) Cotización
+   C) Asistencia
+   D) Siniestros
+   E) Información de Pagos
+   F) Otras Consultas
+   G) Anulación
+   Escribe la letra de la opción seleccionada.
+      
+   Debe mostrarse:
+   Has elegido Documentación (o la opción que haya elegido)
+*/
+
+
+//Ejercicio 2
+
+/*
+   Solicitar al usuario que ingrese dos números.
+   Luego ofrecerle un menú con las siguientes opciones:
+   1-suma 2-resta 3-multiplicación 4-división
+   Finalmente, mostrar el resultado de la operación
+   aritmética elegida.
+*/
+
+
+
+//Ejercicios con for
+
+//Ejercicio 3
+
+//a)
+//Imprimir los números del 1 al 10 uno abajo del otro, sin imprimir los números 2, 5 y 9.
+
+//b)
+//Imprimir los números del 1 al 30 sin imprimir los números entre el 10 y el 20 uno abajo del otro.
+
+//c)
+//Imprimir los números del 1 al 10 salteando de a dos, uno abajo del otro.
+
+//d)
+//Imprimir los números del 10 al 1, uno al lado del otro.
+
+//e)
+//Imprimir la suma de los números impares del 1 al 10.
+
+
+
