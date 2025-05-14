@@ -1,0 +1,27 @@
+	/*
+	Parte I:
+        Pedirle al usuario que ingrese el tamaño del arreglo (longitud).
+        Luego pedirle al usuario que cargue los números de cada posición.
+
+	Parte II:
+        Al finalizar la carga, por pantalla mostrar:
+            * Listado de números ingresados, uno al lado del otro separados por un #.
+            * Sumatoria de todos los números.
+            * Mayor número ingresado.
+            * Menor número ingresado.
+            * Promedio de números ingresados (entero, sin decimales).
+            * Cantidad de números pares.
+            * Cantidad de números impares.
+
+	Parte III:
+	* Eliminar el primer elemento y mostrarlo por consola.
+	* Eliminar el último elemento y mostrarlo por consola.
+	* Agregar al inicio la suma de todos los elementos actuales.
+	* Agregar al final el promedio redondeado.
+	* Crear un nuevo array que contenga los 3 elementos centrales del array resultante tras las mutaciones anteriores. Mostrar ese sub-array sin alterar el original.
+	* En el array mutado, a partir del índice 2, eliminar 2 elementos e insertar en su lugar dos valores a elección (por ejemplo, 999 y 888).
+	* Mostrar el array de los elementos eliminados.
+	* Mostrar el array resultante después de la última modificación.
+	* Mostrar la longitud definitiva del array.
+        */
+

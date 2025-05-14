@@ -1,0 +1,41 @@
+    /*
+      Crear un arreglo que contenga el monto de la facturación total de una empresa de los últimos 6 meses.
+      Informar:
+      * la máxima facturación
+      * la facturación más baja
+      * el promedio de facturación
+    */
+
+    // 1. Definir el vector con 6 meses de facturación
+    const facturacion = [12000, 15000, 9000, 18000, 13000, 16000];
+
+    // 2. Inicializar max, min y suma usando el primer elemento
+    let max = facturacion[0];
+    let min = facturacion[0];
+    let suma = 0;
+
+    // 3. Recorrer el array para actualizar max, min y acumular suma
+    for (let i = 0; i < facturacion.length; i++) {
+      const valor = facturacion[i];
+      
+      // Actualizar máximo y mínimo
+      if (valor > max) max = valor;
+      if (valor < min) min = valor;
+      
+      // Acumular para luego calcular promedio
+      suma += valor;
+    }
+
+    // 4. Calcular el promedio
+    const promedio = suma / facturacion.length;
+
+    // 5. Mostrar resultados
+    console.log("Facturación por mes:", facturacion.join(" / "));
+    console.log("Máxima facturación:", max);
+    console.log("Mínima facturación:", min);
+    console.log("Promedio de facturación:", promedio.toFixed(2));
+    // El método join(separador) toma todos los elementos de un array y los concatena en una 
+    // cadena de texto, intercalando entre ellos el separador que le pases. Si no pasas nada, 
+    // usa la coma "," por defecto.
+
+//========================================================================================================
