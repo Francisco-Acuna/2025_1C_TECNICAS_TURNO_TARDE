@@ -1,0 +1,11 @@
+        /*
+        Ejercicios funciones:
+        1. crear una función que devuelva la cantidad de vocales de una palabra
+        2. crear una función que indique si un número es múltiplo de 3
+        3. crear una función que aplique %50 de premio si el ingreso es de más de 35.000
+        4. Crear un procedimiento que muestre por pantalla la cantidad de números impares 
+        de un arreglo y lo informe por pantalla
+        5. Crear un procedimiento que calcule el área del triángulo y lo informe por pantalla
+        6. Crear un procedimiento que muestre por pantalla el valor del IVA de un producto 
+        ingresado como parámetro
+        */
